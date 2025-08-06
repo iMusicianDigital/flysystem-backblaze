@@ -22,7 +22,7 @@
     "require": {
         "php": "^8.0|^8.1",
         "league/flysystem": "^3.0",
-        "gliterd/backblaze-b2": ">=1.5",
+        "iMusicianDigital/backblaze-b2": "dev-master",
         "psr/http-message-implementation": "*",
         "mikey179/vfsstream": "*"
     },
